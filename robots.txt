@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-6y8180.koi888.sbs/sitemap.xml
